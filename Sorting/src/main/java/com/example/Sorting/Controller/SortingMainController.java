@@ -17,7 +17,7 @@ public class SortingMainController {
 
 //        int a =(int) request.getAttribute("num1");
 //        request.getRequestDispatcher("SecondController").forward(request,res);
-    mv.setViewName("uuidpage");
+    mv.setViewName("Sorting");
         return mv;
     }
 }
